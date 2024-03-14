@@ -5,4 +5,4 @@
 - #### 專案內容：利用 Haar 特徵模型訓練 貓臉偵測模組
 
 - #### Haar 特徵訓練器模組來源：
-  - https://github.com/sauhaardac/haar-training
+  - https://github.com/sauhaardac/haar-training 
