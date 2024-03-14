@@ -1,0 +1,1 @@
+opencv_traincascade.exe -data cascades -vec vector/facevector.vec -bg negative/bg.txt -numPos 16 -numNeg 25 -numStages 1 -w 80 -h 40 -minHitRate 0.888 -precalcValBufSize 256 -precalcIdxBufSize 256 -mode ALL

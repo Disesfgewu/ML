@@ -1,0 +1,16 @@
+rawdata/bmpjpg001.bmp 1 94 44 117 101
+rawdata/bmpjpg002.bmp 1 56 33 151 125
+rawdata/bmpjpg003.bmp 1 59 47 135 104
+rawdata/bmpjpg004.bmp 1 26 48 151 140
+rawdata/bmpjpg005.bmp 1 48 32 161 167
+rawdata/bmpjpg006.bmp 1 51 32 189 114
+rawdata/bmpjpg007.bmp 1 76 9 166 143
+rawdata/bmpjpg008.bmp 1 107 18 86 86
+rawdata/bmpjpg009.bmp 1 104 95 88 63
+rawdata/bmpjpg010.bmp 1 67 43 148 101
+rawdata/bmpjpg011.bmp 1 25 11 201 196
+rawdata/bmpjpg012.bmp 1 24 37 164 169
+rawdata/bmpjpg013.bmp 1 94 20 142 122
+rawdata/bmpjpg014.bmp 1 142 55 61 56
+rawdata/bmpjpg015.bmp 1 79 31 109 93
+rawdata/bmpjpg016.bmp 1 67 39 184 139

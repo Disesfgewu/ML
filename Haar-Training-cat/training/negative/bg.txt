@@ -1,0 +1,16 @@
+negative/Gray001.jpg
+negative/Gray002.jpg
+negative/Gray003.jpg
+negative/Gray004.jpg
+negative/Gray005.jpg
+negative/Gray006.jpg
+negative/Gray007.jpg
+negative/Gray008.jpg
+negative/Gray009.jpg
+negative/Gray010.jpg
+negative/Gray011.jpg
+negative/Gray012.jpg
+negative/Gray013.jpg
+negative/Gray014.jpg
+negative/Gray015.jpg
+
